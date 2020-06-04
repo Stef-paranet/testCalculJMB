@@ -1,6 +1,10 @@
 # testCalculJMB
 calculRTT
 
+compiler, recompiler :
+
+tsc calcul.ts
+
 lancer :
 
 node calcul.js
